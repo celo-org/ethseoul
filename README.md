@@ -6,13 +6,7 @@
 
 <h2 align="center">Celo is sponsoring ETHSeoul 2024!</h2>
 
-|                    Bounties                     |
-| :---------------------------------------------: |
-| ![best_overall](./ethseoul/images/bounties.png) |
-
-<h4 align="center">Best mobile dApp</h4>
-
-<h5 align="center">2500 USDC · 1500 USDC · 1000 USDC</h5>
+![best_overall](./ethseoul/images/bounties.png)
 
 ### Workshop Details
 
@@ -44,7 +38,7 @@ npx @celo/celo-composer create --template minipay
 ```
 
 > [!NOTE]  
-> If you are not using Celo Composer it is recommended to use Viem as your web3 library when building MiniPay dApp. The MiniPay template already has it.
+> If you are not using Celo Composer **it is recommended to use Viem as your web3 library** when building MiniPay dApp. The MiniPay template already has it.
 
 #### Get Testnet tokens from [Faucet](https://faucet.celo.org/alfajores)
 
@@ -65,10 +59,6 @@ yarn run react-app:dev
 #### [Setting up Ngrok](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
 
 #### [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
-
-## Resources for hackers
-
-💰 Using [Faucet](https://faucet.celo.org/) you can request CELO, cUSD, cEUR and cREAL tokens on testnet!
 
 ### Guides
 
