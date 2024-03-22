@@ -60,6 +60,18 @@ yarn run react-app:dev
 
 ### 8. [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
 
+#### Ideas
+
+-   Earn Using MiniPay
+-   Billing with MiniPay
+    -   Example:- Khatabook
+-   Ecommerce Store with MiniPay
+    -   Example:- Dukaan
+-   Scratch and win
+-   Asset tracking and accounting
+-   Bulk payments
+-   Expense approval
+
 ### Guides
 
 [![MiniPay video](https://img.youtube.com/vi/cNp5vhwZdao/0.jpg)](https://www.youtube.com/watch?v=cNp5vhwZdao)
@@ -73,18 +85,6 @@ yarn run react-app:dev
     -   [Ngrok Setup](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
 
 #### [Cheatsheet](https://celoplatform.notion.site/MiniPay-Cheatsheet-60066f16d136421ab2ef19522ffe6200?pvs=74) 🤫
-
-#### Ideas
-
--   Earn Using MiniPay
--   Billing with MiniPay
-    -   Example:- Khatabook
--   Ecommerce Store with MiniPay
-    -   Example:- Dukaan
--   Scratch and win
--   Asset tracking and accounting
--   Bulk payments
--   Expense approval
 
 ### Valora
 
