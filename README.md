@@ -100,6 +100,6 @@ yarn run react-app:dev
 
 Valora is a cryptocurrency wallet that focuses on ease of exploring web3 applications.
 
-[Docs](https://docs.valora.xyz/)
-[Deeplinks](https://docs.valora.xyz/connecting/deeplinks)
-[Valora Hooks](https://docs.valora.xyz/hooks/)
+-   [Docs](https://docs.valora.xyz/)
+-   [Deeplinks](https://docs.valora.xyz/connecting/deeplinks)
+-   [Valora Hooks](https://docs.valora.xyz/hooks/)
