@@ -31,7 +31,7 @@
 1. node > 18
 2. yarn
 
-You can use the following command to initialize MiniPay starter project:
+3. You can use the following command to initialize MiniPay starter project:
 
 ```bash
 npx @celo/celo-composer create --template minipay
@@ -40,9 +40,9 @@ npx @celo/celo-composer create --template minipay
 > [!NOTE]  
 > If you are not using Celo Composer **it is recommended to use Viem as your web3 library** when building MiniPay dApp. The MiniPay template already has it.
 
-### Get Testnet tokens from [Faucet](https://faucet.celo.org/alfajores)
+### 2. Get Testnet tokens from [Faucet](https://faucet.celo.org/alfajores)
 
-### Start the project
+### 3. Start the project
 
 Execute the below from the root folder of the project
 
@@ -50,15 +50,15 @@ Execute the below from the root folder of the project
 yarn run react-app:dev
 ```
 
-### [Setup Android Studio](https://docs.celo.org/developer/build-on-minipay/prerequisites/android-studio-setup) (Skip if you have Android Device)
+### 4. [Setup Android Studio](https://docs.celo.org/developer/build-on-minipay/prerequisites/android-studio-setup) (Skip if you have Android Device)
 
-### [Install MiniPay app on the Emulator](https://docs.celo.org/developer/build-on-minipay/overview#installing-minipay) (If you have an Android device perform the steps on the device)
+### 5. [Install MiniPay app on the Emulator](https://docs.celo.org/developer/build-on-minipay/overview#installing-minipay) (If you have an Android device perform the steps on the device)
 
-### [Enable Developer Mode on MiniPay](https://docs.celo.org/developer/build-on-minipay/enabling-testnet)
+### 6. [Enable Developer Mode on MiniPay](https://docs.celo.org/developer/build-on-minipay/enabling-testnet)
 
-### [Setting up Ngrok](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
+### 7. [Setting up Ngrok](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
 
-### [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
+### 8. [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
 
 ### Guides
 
