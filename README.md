@@ -90,6 +90,18 @@ yarn run react-app:dev
 
 Valora is a cryptocurrency wallet that focuses on ease of exploring web3 applications.
 
+#### Valora Hooks
+
+Valora Hooks is a system that allows developers to extend Valora by writing short programs called "hooks". Valora will call hooks in response to certain in-app or blockchain events and use the results from hooks to extend Valora's functionality.
+
+#### Valora Hook Types
+
+Valora supports or is working on support for the types of hooks we list below:
+
+-   Position pricing: show a custom contract position in Valora
+-   Name resolution: map an arbitrary identifier or name to a wallet address
+-   Shortcut (coming soon): complete simple dapp (or inter-dapp) actions within Valora
+
 -   [Docs](https://docs.valora.xyz/)
 -   [Deeplinks](https://docs.valora.xyz/connecting/deeplinks)
 -   [Valora Hooks](https://docs.valora.xyz/hooks/)
