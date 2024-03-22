@@ -30,7 +30,7 @@
 -   Demo to someone on the Celo team during Sponsor Judging
 -   Mention smart contract addresses of all contracts deployed on Celo in your top-level project README, also Verify them on Celoscan or Celo Explorer.
 
-### Get started using Celo Composer
+### Get started using Celo Composer (for MiniPay)
 
 #### Prerequisites
 
