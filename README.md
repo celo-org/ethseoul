@@ -102,6 +102,4 @@ Valora supports or is working on support for the types of hooks we list below:
 -   Name resolution: map an arbitrary identifier or name to a wallet address
 -   Shortcut (coming soon): complete simple dapp (or inter-dapp) actions within Valora
 
--   [Docs](https://docs.valora.xyz/)
--   [Deeplinks](https://docs.valora.xyz/connecting/deeplinks)
--   [Valora Hooks](https://docs.valora.xyz/hooks/)
+[Docs](https://docs.valora.xyz/) - [Deeplinks](https://docs.valora.xyz/connecting/deeplinks) - [Valora Hooks](https://docs.valora.xyz/hooks/)
