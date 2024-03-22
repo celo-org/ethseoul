@@ -30,10 +30,6 @@
 -   Demo to someone on the Celo team during Sponsor Judging
 -   Mention smart contract addresses of all contracts deployed on Celo in your top-level project README, also Verify them on Celoscan or Celo Explorer.
 
-## What is Celo?
-
-Celo is the carbon-negative, mobile-first, EVM-compatible PoS blockchain where developers can build decentralized applications that create the conditions for prosperity — for everyone.
-
 ### Get started using Celo Composer
 
 #### Prerequisites
