@@ -60,7 +60,7 @@ yarn run react-app:dev
 
 ### 8. [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
 
-#### Ideas
+### Ideas
 
 -   Earn Using MiniPay
 -   Billing with MiniPay
